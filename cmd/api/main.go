@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/username/myapi/todoapi/internal/domain/model/dto"
+	"TODOAPI/internal/domain/model/dto"
 )
 
 func main() {
